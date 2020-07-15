@@ -1,1 +1,1 @@
-# Hosting-a-website-using-Terraform-and-AWS-s-Services-ie.-EC2-EFS-S3-and-CloudFront
+# Hosting-a-website-using-Terraform-and-AWS-Services-ie.-EC2-EFS-S3-and-CloudFront
